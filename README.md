@@ -1,16 +1,45 @@
-# React + Vite
+# 🕉️ Gita Guide – AI Wisdom Companion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Gita Guide** is a modern AI-powered web application that provides calm, practical, and spiritual guidance inspired by the **Bhagavad Gita**.  
+It blends ancient wisdom with modern AI to help users find clarity in moments of confusion, stress, and decision-making.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🧠 **AI-powered insights** inspired by the Bhagavad Gita  
+- 🕉️ Responses include:
+  - Sanskrit Shloka  
+  - English Translation  
+  - Practical Wisdom  
+  - Actionable Advice  
+- 🎨 **Dark, cinematic UI** with subtle golden accents  
+- ✍️ Clean, interactive input experience  
+- ⚡ Fast responses using **Groq LLMs**
+- 🌙 Calm, distraction-free design focused on reflection
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🖥️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React + Vite  
+- **AI Model:** Groq (LLaMA 3)  
+- **Styling:** Tailwind CSS  
+- **Icons:** Lucide React  
+- **State Management:** React Hooks  
+- **Environment Handling:** `.env` (secure)
+
+---
+
+## 📸 UI Preview
+
+> A dark, battlefield-inspired interface with muted gold highlights, designed to feel calm, premium, and spiritual.
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Rudra471/GitaGPT.git
+cd GitaGPT
